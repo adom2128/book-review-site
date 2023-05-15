@@ -1,0 +1,28 @@
+header {
+    border:1px;
+    border-style: dotted;
+    background-color: rgb(167, 208, 186);
+}
+
+footer {
+    border:1px;
+    border-style: dotted;
+    background-color: rgb(167, 208, 186);
+}
+
+body {
+    background-color: rgb(223, 218, 211);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.italics {
+    font-style: italic;
+}
+
+a:hover {
+    color:brown;
+}
+
+ul {
+    list-style-type: none;
+}
